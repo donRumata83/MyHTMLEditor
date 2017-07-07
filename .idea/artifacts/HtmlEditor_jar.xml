@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HtmlEditor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HtmlEditor_jar</output-path>
+    <root id="archive" name="HtmlEditor.jar">
+      <element id="module-output" name="HtmlEditor" />
+    </root>
+  </artifact>
+</component>
